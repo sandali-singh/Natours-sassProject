@@ -1,4 +1,4 @@
-# Natours-sassProject
+# Natours-SassProject
 
 Natours project is a website for booking Exciting tours for adventurous people
 
